@@ -13,7 +13,7 @@
     "d3": "^5.16.0",
     "html-webpack-plugin": "^4.3.0",
     "style-loader": "^1.2.1",
-    "three": "^0.118.1",
+    "three": "^0.137.0",
     "three-orbitcontrols": "^2.110.3",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.12",
